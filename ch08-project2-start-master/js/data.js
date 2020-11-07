@@ -2,9 +2,9 @@
 /* code By Shashidar Reddy */
 var countries = [
     {
-    "name": "India",
+    "name": "Canada",
     "continent": "North America",
-    "cities": ["Calgary","Montreal","Toronto"],
+    "cities": ["Thunder Bay","Winnipeg","Toronto"],
     "photos": ["canada1.jpg","canada2.jpg","canada3.jpg"],
     },
     {
@@ -20,8 +20,8 @@ var countries = [
     "photos": ["italy1.jpg","italy2.jpg","italy3.jpg","italy4.jpg","italy5.jpg","italy6.jpg"],
     },
     {
-    "name": "Pakistan",
-    "continent": "Europe",
-    "cities": ["Almeria","Barcelona","Madrid"],
+    "name": "India",
+    "continent": "Asia",
+    "cities": ["Delhi","Hyderabad","Bangalore"],
     "photos": ["spain1.jpg","spain2.jpg"],
     }]
